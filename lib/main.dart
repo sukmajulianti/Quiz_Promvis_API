@@ -1,8 +1,5 @@
-import 'package:flutter/material.dart';
 import 'dart:convert';
 
-
-bjgugu
 void main() {
   String jsonString =
       '{"nama": "Budi Martami", "umur":17, "list_bahasa": ["C++", "Python"]}';
